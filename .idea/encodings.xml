@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/src/com/javarush/test/level15/lesson12/bonus02/DrinkMaker.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/javarush/test/level15/lesson12/bonus02/LatteMaker.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/javarush/test/level15/lesson12/bonus02/Solution.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/javarush/test/level15/lesson12/bonus02/TeaMaker.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/javarush/test/level16/lesson13/bonus01/ImageReaderFactory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/javarush/test/level16/lesson13/bonus01/common/BmpReader.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/javarush/test/level16/lesson13/bonus01/common/JpgReader.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/javarush/test/level16/lesson13/bonus01/common/PngReader.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/javarush/test/level18/lesson10/bonus02/Solution.java" charset="UTF-8" />
+    <file url="PROJECT" charset="windows-1251" />
+  </component>
+</project>
